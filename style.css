@@ -365,8 +365,10 @@ body {
   }
 
   .carousel-inner{
-    max-height: 229px;
-    min-height: 189px;
+/*     max-height: 229px;
+    min-height: 189px; */
+    max-height: 177px;
+
   }
 }
 /* slider bootstrap */
